@@ -479,7 +479,7 @@ section {
   font-weight: 600;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #5c768d;
+  color: #0b5414;
 }
 .section-title p {
   margin-bottom: 0;
@@ -531,17 +531,19 @@ section {
 --------------------------------------------------------------*/
 .about {
   padding-bottom: 30px;
+
 }
 .about .container {
   box-shadow: 0 5px 25px 0 rgba(214, 215, 216, 0.6);
 }
-.about .video-box img {
-  padding: 15px 0;
+.about .video-box {
+  padding: 95px 75px;
+
 }
 .about .section-title p {
   text-align: left;
   font-style: italic;
-  color: #666;
+  color: black;
 }
 .about .about-content {
   padding: 40px;
@@ -672,6 +674,61 @@ section {
   }
 }
 
+.career p{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  text-align: center;
+  font-size: 35px;
+  color: White;
+  background: #07683b;
+}
+
+.ccjeBG {
+  text-align: center;
+}
+
+.iftcs{
+ text-align: center;
+}
+
+.teched{
+ text-align: center;
+}
+
+.accountancy{
+ text-align: center;
+}
+
+.aas{
+ text-align: center;
+}
+
+.businessAd{
+ text-align: center;
+}
+
+.eaarchitec{
+ text-align: center;
+}
+
+.hatmanage{
+ text-align: center;
+}
+
+.nursing{
+ text-align: center;
+}
+
+.law{
+ text-align: center;
+}
+
+a:hover{
+  color: Green;
+}
+a{
+  color: black;
+}
 @keyframes pulsate-btn {
   0% {
     transform: scale(0.6, 0.6);
@@ -871,7 +928,7 @@ section {
 }
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #fff;
+  color: Black;
   font-weight: 600;
 }
 .portfolio .portfolio-wrap .portfolio-info p {
