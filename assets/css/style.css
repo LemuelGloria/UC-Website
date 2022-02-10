@@ -542,8 +542,12 @@ section {
 }
 
 .about .video-box img {
+<<<<<<< HEAD
+  padding: 15px 0;
+=======
   padding: 15rem 15;
 
+>>>>>>> 8ca36e33f0a0383ae1963ebcf6a5736e4f754900
 }
 .about .section-title p {
   text-align: left;
