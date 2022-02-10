@@ -343,7 +343,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   bottom: 0;
   overflow: hidden;
 }
-#hero .carousel-container {
+#hero .carousel-container{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -353,6 +353,13 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   left: 0;
   right: 0;
   overflow: hidden;
+}
+.images{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 28px;
+ 
 }
 #hero .carousel-content {
   text-align: left;
@@ -372,7 +379,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-weight: 900;
 }
 #hero p {
-  width: 80%;
+  width: 100%;
   -webkit-animation-delay: 0.4s;
   animation-delay: 0.4s;
   color: #fff;
