@@ -1251,13 +1251,11 @@ a{
 }
 
 #footer {
-<<<<<<< HEAD
+
   background: #0b291f;
   padding: 0 0 0 0;
-=======
   background: #08231a;
-  padding: 0 0 30px 0;
->>>>>>> de85f5c31a543645dd3fe87ca784a23ba327669c
+  padding: 0 0 20px 0;
   color: #fff;
   font-size: 14px;
 }
@@ -1266,7 +1264,7 @@ a{
   align-items: center;
   justify-content: center;
   display: flex;
-  background: #07683b;
+  background: #09593c;
 }
 
 .footerCollages{
@@ -1276,14 +1274,11 @@ a{
 
 #footer .footer-top {
   background: #0b291f;
-<<<<<<< HEAD
   border-top: 1px solid #768fa6;
   border-bottom: 1px solid #67839c;
-=======
   border-top: 1px solid #0b291f;
   border-bottom: 1px solid #0b291f;
->>>>>>> de85f5c31a543645dd3fe87ca784a23ba327669c
-  padding: 60px 0 30px 0;
+  padding: 20px 0 5px 0;
 }
 #footer .footer-top .footer-info {
   margin-bottom: 30px;
@@ -1399,14 +1394,17 @@ a{
 }
 #footer .copyright {
   text-align: center;
-  padding-top: 30px;
+  font-size: 11px;
+  padding-top: 10px;
+  
+  background-color: #08231a;
 }
 #footer .credits {
   padding-top: 10px;
   text-align: center;
-  font-size: 13px;
-  color: #fff;
+  font-size: 11px;
+  color: #08231a;
 }
 #footer .credits a {
-  color: #9eccf4;
+  color: #08231a;
 }
