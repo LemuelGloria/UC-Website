@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 * Desktop Navigation 
 */
 .navbar {
-  padding: 0;
+  padding: 50px;
 }
 .navbar ul {
   margin: 0;
@@ -157,9 +157,9 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 0 10px 30px;
-  font-family: "Open Sans", sans-serif;
-  font-size: 15px;
+  padding: 10px 20px 10px 30px;
+  font-family: "Ariel", sans-serif;
+  font-size: 23px;
   color: #5c768d;
   white-space: nowrap;
   transition: 0.3s;
